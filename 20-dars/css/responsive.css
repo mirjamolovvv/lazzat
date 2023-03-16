@@ -1,0 +1,23 @@
+@media screen and (max-width:600px){
+nav{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    width: 100%;
+}
+.box img{
+    width: 550px;
+}
+/* .btn6{
+    height: 70px;
+} */
+input{
+    width: auto;
+}
+}
